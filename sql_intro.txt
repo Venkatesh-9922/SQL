@@ -1,0 +1,31 @@
+Introduction to SQL:
+
+    We have already learnt that databases and DBMS are key to organising and analysing data for business uses.  
+    From here on, let’s get busy working around with databases using SQL! 
+
+--> SQL stands for Structured Query Language
+--> SQL is used to perform operations on Relational DBMS.
+--> SQL is declarative. Hence, easy to learn.
+--> SQL provides multiple clauses (commands) to perform various operations like create, retrieve, update and delete the data.
+
+Data Types:
+
+    Following data types are frequently used in SQL.
+
+    Data Type	Syntax
+
+    Integer	    INTEGER / INT
+    Float	    FLOAT
+    String	    VARCHAR
+    Text	    TEXT
+    Date	    DATE
+    Time	    TIME
+    Datetime	DATETIME
+    Boolean	    BOOLEAN
+    
+Note:
+    -->Boolean values are stored as integers 0 (FALSE) and 1 (TRUE).
+    -->Date object is represented as: ‘YYYY-MM-DD’
+    -->Datetime object is represented as: ‘YYYY-MM-DD HH:MM:SS’
+
+

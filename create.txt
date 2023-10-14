@@ -1,0 +1,26 @@
+Create Table:
+
+    Creates a new table in the database.
+
+Syntax:
+        CREATE TABLE table_name
+  (
+  column1 type1,
+  column2 type2,
+  ...
+  );
+
+  Example:
+    
+    Create a player table to store the following details of STUDENT.
+
+column_name	    data_type
+   name	        VARCHAR(200)
+   age	        INT/INTEGER
+   address	    TEXT
+
+
+        cid	name	type	    notnull	 dflt_value	 pk
+        0	name	varchar(200)	0		         0
+        1	age	    integer	        0		         0
+        2	address	text	        0		         0

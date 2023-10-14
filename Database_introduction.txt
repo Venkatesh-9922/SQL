@@ -1,0 +1,47 @@
+Data:
+
+Any sort of information that is stored is called data.
+
+Examples:
+
+   --> Messages & multimedia on WhatsApp
+   --> Products and orders on Amazon
+   --> Contact details in telephone directory, etc.
+
+Database:
+
+    An organised collection of data is called a database.
+
+Database Management System (DBMS):
+
+    A software that is used to easily store and access data from the database in a secure way.
+
+
+Advantages:
+
+    -->Security: 
+            Data is stored & maintained securely.
+    -->Ease of Use:
+             Provides simpler ways to create & update data at the rate it is generated and updated respectively.
+    -->Durability and Availability:
+             Durable and provides access to all the clients at any point in time.
+    -->Performance:
+             Quickly accessible to all the clients(applications and stakeholders).
+
+Types of Databases:
+    
+    There are different types of databases based on how we organize the data. 
+            1)Relational Database
+            2)Non-Relational Database
+
+Relational DBMS:
+
+    A Relational DBMS is a DBMS designed specifically for relational databases. Relational databases organise the data in the form of tables.
+
+        Examples: Oracle, PostgreSQL, MySQL, SQLite, SQL Server, IBM DB2, etc.
+
+Non-Relational DBMS::
+
+    A Non-relational DBMS is a DBMS designed specifically for non-relational databases. Non-relational databases store the data in a non-tabular form.
+
+        Examples: Elasticsearch, CouchDB, DynamoDB, MongoDB, Cassandra, Redis, etc.

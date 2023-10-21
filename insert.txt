@@ -31,6 +31,16 @@ Output:
             Gill	 25	    203
             Virat	 37	    183
 
+Retrieving Data
+
+    SELECT clause is used to retrieve rows from a table. 
+
+Database
+
+    The database consists of aplayertable that stores the details of players who are a part of a tournament.playertable stores the name, age and score of players.
+
+Let's explore more about the SELECT clause using the database.
+
 
 
 

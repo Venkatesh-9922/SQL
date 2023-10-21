@@ -1,0 +1,46 @@
+Comparison Operators:
+     
+     ' = '  ---->   Equal to 
+      <>    ---->   Not Equal to 
+      <     ---->   Less Than
+      <=    ---->   Less Than or Equal to     
+      >     ---->   Greater than 
+      >=    ---->   Greater than or Equal to 
+
+
+String Operators:
+      
+      Like Operator: Used to perform queries on strings.
+
+        Common Patterns :
+         
+         -- Exact Match                 Wildcard Characters
+         -- Starts with                      ---> %
+         -- Ends with                        ---> _
+         -- Contains
+         -- Pattern matching
+
+Logical Operators:
+
+        ----> AND 
+                
+                SELECT * FROM table_name WHERE condition_1 AND condition_2;
+        
+        ----> OR
+
+                SELECT * FROM table_name WHERE condition_1 OR condition_2 OR condition_3;                
+
+        ----> NOT
+
+                SELECT * FROM table_name WHERE NOT condition_1;
+        
+
+IN and BETWEEN Operators:
+
+    ---> IN Operator
+
+            SELECT * FROM table_name WHERE column1 IN (val1,val2,val3....);
+
+    ---> BETWEEN Operator
+
+            SELECT * FROM table_name WHERE column1 BETWEEN Val1 AND Val2;

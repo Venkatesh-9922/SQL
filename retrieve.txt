@@ -1,0 +1,11 @@
+To Display Full table:
+
+    --> SELECT * From table_name;
+
+To Display Specific Columns:
+
+    --> SELECT column1 FROM table_name;
+
+To Display Specific Rows:
+
+    --> SELECT column1 FROM table_name WHERE name="XYZ";

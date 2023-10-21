@@ -1,0 +1,28 @@
+Other Commands:-
+
+    --> DISTINCT:
+            Used to Display the Unique values from table.
+
+    --> WHERE :
+            Used to Display Specific rows using condition before grouping.
+
+    -->  Group By :
+            Used to group rows which have the Same values for the mentioned attributes.
+
+    --> Having : 
+            Used to filter the resultant rows after grouping.
+    
+    --> Paginatiion:
+           
+            LIMIT: Used to specify no of rows to be displayed.
+            
+            OFFSEt: Used to specify the position from where to start.
+        
+        Ex: SELECT 
+        column1,column2 
+        FROM 
+        table_name 
+        GROUP BY column1 ASC 
+        LIMIT 10,
+        OFFSET 0;
+        

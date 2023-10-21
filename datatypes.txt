@@ -1,0 +1,12 @@
+Data Types in SQL:
+
+        Datatype            Syntax
+        
+        Integer  ------>    INTEGER/INT
+        Float    ------>    FLOAT 
+        String   ------>    VARCHAR 
+        Text     ------>    TEXT 
+        Date     ------>    DATE 
+        Time     ------>    TIME 
+        Datetime ------>    DATETIME 
+        Boolean  ------>    BOOLEAN 
